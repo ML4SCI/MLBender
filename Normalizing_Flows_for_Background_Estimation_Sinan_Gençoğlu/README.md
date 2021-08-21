@@ -75,7 +75,7 @@ It is recommended to use conda or venv environments if you're going to run this 
 ### Installation
 
 Main packages are as follows:
-* PyTorch 2.x
+* PyTorch 1.9
 * Python 3.6 or higher
 * Pandas
 * Seaborn
